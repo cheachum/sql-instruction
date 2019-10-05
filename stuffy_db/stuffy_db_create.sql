@@ -23,3 +23,4 @@ create table stuffy (
     (10, 'penguin', 'blackwhite', 's', '4');
     
     
+    

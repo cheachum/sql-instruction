@@ -52,5 +52,6 @@ values (1,3, 'hello');
 insert into credits (actorID, movieID, role)
 values (3,2, 'dogowner');
 
+-- DROP USER IF EXISTS bmdb_user@localhost;
 -- CREATE USER bmdb_user@localhost IDENTIFIED BY 'sesame';
 -- GRANT SELECT, INSERT, DELETE, UPDATE ON bmdb.* TO bmdb_user@localhost;
